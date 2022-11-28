@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KOOM007.
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning Python,C,Arduino and stm32.
+- 📫 E-mail:2060935597@qq.com(国内)
+- 📫 E-mail:puzechuan8@qq.com(world)55
+- 👋 嗨，我是KOOM007。
+- 👀 我对IT行业非常感兴趣。
+- 🌱 我正在学习Python，C，Arduino和stm32。
+- 📫 交流学习：发邮件到2060935597@qq.com
